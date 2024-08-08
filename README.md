@@ -14,6 +14,7 @@ This GitHub will list several papers that align with one of my research focuses.
 - [Open Source Automated Interpretability for Sparse Autoencoder Features](https://www.lesswrong.com/posts/AhG3RJ6F5KvmKmAkd/open-source-automated-interpretability-for-sparse)
 - [On the Multilingual Ability of Decoder-based Pre-trained Language Models: Finding and Controlling Language-Specific Neurons](https://aclanthology.org/2024.naacl-long.384/)
 - [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features)
+- [Analyzing Feed-Forward Blocks in Transformers through the Lens of Attention Maps](https://arxiv.org/abs/2302.00456)
 
 ## Knowledge Editing
 - [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)
