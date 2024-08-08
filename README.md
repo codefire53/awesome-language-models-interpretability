@@ -18,6 +18,7 @@ This GitHub will list several papers that align with one of my research focuses.
 - [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)
 - [Mass Editing Memory in a Transformer](https://arxiv.org/pdf/2210.07229)
 - [Cross-Lingual Knowledge Editing in Large Language Models](https://arxiv.org/html/2309.08952v2)
+- [Locating and Editing Factual Associations in Mamba.](https://arxiv.org/pdf/2404.03646)
   
 ## Capabilites of Language Models
 - [Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals](https://arxiv.org/abs/2402.11655)
