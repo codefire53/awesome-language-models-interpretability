@@ -13,6 +13,7 @@ This GitHub will list several papers that align with one of my research focuses.
 - [Eliciting Latent Predictions from Transformers with the Tuned Lens](https://arxiv.org/abs/2303.08112)
 - [Open Source Automated Interpretability for Sparse Autoencoder Features](https://www.lesswrong.com/posts/AhG3RJ6F5KvmKmAkd/open-source-automated-interpretability-for-sparse)
 - [On the Multilingual Ability of Decoder-based Pre-trained Language Models: Finding and Controlling Language-Specific Neurons](https://aclanthology.org/2024.naacl-long.384/)
+- [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features)
 
 ## Knowledge Editing
 - [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)
