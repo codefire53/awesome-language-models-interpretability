@@ -5,7 +5,7 @@ This GitHub will list several papers that align with one of my research focuses.
 ## Survey
 - [A Primer on the Inner Workings of Transformer-based Language Models.](https://arxiv.org/pdf/2405.00208)
 
-## Mechanistics Interpretability
+## Interpretability Approaches
 - [How do Large Language Models Handle Multilingualism?](https://arxiv.org/pdf/2402.18815)
 - [The Devil is in the Neurons: Interpreting and Mitigating Social Biases in Language Models](https://openreview.net/pdf?id=SQGUDc9tC8)
 - [interpreting GPT: the logit lens](https://www.lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens)
@@ -15,6 +15,7 @@ This GitHub will list several papers that align with one of my research focuses.
 - [On the Multilingual Ability of Decoder-based Pre-trained Language Models: Finding and Controlling Language-Specific Neurons](https://aclanthology.org/2024.naacl-long.384/)
 - [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features)
 - [Analyzing Feed-Forward Blocks in Transformers through the Lens of Attention Maps](https://arxiv.org/abs/2302.00456)
+- [CausalGym](https://arxiv.org/pdf/2402.12560)
 
 ## Knowledge Editing
 - [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)
