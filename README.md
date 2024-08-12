@@ -16,6 +16,7 @@ This GitHub will list several papers that align with one of my research focuses.
 - [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features)
 - [Analyzing Feed-Forward Blocks in Transformers through the Lens of Attention Maps](https://arxiv.org/abs/2302.00456)
 - [CausalGym](https://arxiv.org/pdf/2402.12560)
+- [Probing the Emergence of Cross-lingual Alignment during LLM Training](https://arxiv.org/abs/2406.13229)
 
 ## Knowledge Editing
 - [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)
@@ -31,5 +32,4 @@ This GitHub will list several papers that align with one of my research focuses.
 - [Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models](https://aclanthology.org/2023.emnlp-main.658.pdf)
 
 ## Tutorials
-- [EACL'24 Transformer-specific Interpretability
-](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial)
+- [EACL'24 Transformer-specific Interpretability](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial)
