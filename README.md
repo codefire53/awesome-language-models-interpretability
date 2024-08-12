@@ -29,3 +29,7 @@ This GitHub will list several papers that align with one of my research focuses.
 - [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066)
 - [Multilingual LAMA: Investigating Knowledge in Multilingual Pretrained Language Models](https://arxiv.org/abs/2102.00894)
 - [Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models](https://aclanthology.org/2023.emnlp-main.658.pdf)
+
+## Tutorials
+- [EACL'24 Transformer-specific Interpretability
+](https://github.com/interpretingdl/eacl2024_transformer_interpretability_tutorial)
