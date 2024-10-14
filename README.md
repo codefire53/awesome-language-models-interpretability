@@ -17,6 +17,8 @@ This GitHub will list several papers that align with one of my research focuses.
 - [Analyzing Feed-Forward Blocks in Transformers through the Lens of Attention Maps](https://arxiv.org/abs/2302.00456)
 - [CausalGym](https://arxiv.org/pdf/2402.12560)
 - [Probing the Emergence of Cross-lingual Alignment during LLM Training](https://arxiv.org/abs/2406.13229)
+- [Sparse Autoencoders Reveal Universal Feature Spaces Across Large Language Models](http://arxiv.org/abs/2410.06981)
+- [Evaluating Open-Source Sparse Autoencoders on Disentangling Factual Knowledge in GPT-2 Small](https://arxiv.org/abs/2409.04478)
 
 ## Knowledge Editing
 - [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)
