@@ -20,8 +20,7 @@ This GitHub will list several papers that align with one of my research focuses.
 - [Sparse Autoencoders Reveal Universal Feature Spaces Across Large Language Models](http://arxiv.org/abs/2410.06981)
 - [Evaluating Open-Source Sparse Autoencoders on Disentangling Factual Knowledge in GPT-2 Small](https://arxiv.org/abs/2409.04478)
 - [Influence functions - why, what and how](https://www.lesswrong.com/posts/sYeZvofqbWJDrXEHM/influence-functions-why-what-and-how)
-- [Information Flow Routes:
-Automatically Interpreting Language Models at Scale](https://arxiv.org/pdf/2403.00824)
+- [Information Flow Routes: Automatically Interpreting Language Models at Scale](https://arxiv.org/pdf/2403.00824)
 
 ## Knowledge Editing
 - [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)
