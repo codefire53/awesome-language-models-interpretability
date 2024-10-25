@@ -21,13 +21,18 @@ This GitHub will list several papers that align with one of my research focuses.
 - [Evaluating Open-Source Sparse Autoencoders on Disentangling Factual Knowledge in GPT-2 Small](https://arxiv.org/abs/2409.04478)
 - [Influence functions - why, what and how](https://www.lesswrong.com/posts/sYeZvofqbWJDrXEHM/influence-functions-why-what-and-how)
 - [Information Flow Routes: Automatically Interpreting Language Models at Scale](https://arxiv.org/pdf/2403.00824)
+- [Amnesic Probing: Behavioral Explanation with Amnesic Counterfactuals](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00359/98091/Amnesic-Probing-Behavioral-Explanation-with)
 
-## Knowledge Editing
+
+## Knowledge Editing & Alignment
 - [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262)
 - [Mass Editing Memory in a Transformer](https://arxiv.org/pdf/2210.07229)
 - [Cross-Lingual Knowledge Editing in Large Language Models](https://arxiv.org/html/2309.08952v2)
 - [Locating and Editing Factual Associations in Mamba.](https://arxiv.org/pdf/2404.03646)
-  
+- [Adversarial Concept Erasure in Kernel Space](https://aclanthology.org/2022.emnlp-main.405/)
+- [Linear Adversarial Concept Erasure](https://proceedings.mlr.press/v162/ravfogel22a.html)
+
+
 ## Capabilites of Language Models
 - [Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals](https://arxiv.org/abs/2402.11655)
 - [How do Language Models Bind Entities in Context?](https://arxiv.org/abs/2310.17191)
